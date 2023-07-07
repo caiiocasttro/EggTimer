@@ -15,6 +15,7 @@ The project was developed with a storyboard and using MVC Design Pattern
 
 ### 📸 Screenshots of the application
 
-![EggTimer Screenshots](https://github.com/caiiocasttro/EggTimer/assets/104564732/cbe74fb1-7b68-4d38-992c-70478d2bd048)
+![EggTimer Screenshots](https://github.com/caiiocasttro/EggTimer/assets/104564732/93154daf-aed8-4514-9974-4f1402f71f69)
+
 
 
